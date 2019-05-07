@@ -151,7 +151,7 @@ class BinaryTree {
          this.theGame();
       }
       else{
-         System.out.println("Bye bye.");
+         System.out.println("Thanks for playing, goodbye!");
          System.exit(0); //terminate program.
       }
    }
